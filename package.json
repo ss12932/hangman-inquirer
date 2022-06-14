@@ -1,0 +1,20 @@
+{
+  "name": "hangman-inquirer",
+  "version": "1.0.0",
+  "description": "code along practice from Suraj's Monday workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ss12932/hangman-inquirer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ss12932/hangman-inquirer/issues"
+  },
+  "homepage": "https://github.com/ss12932/hangman-inquirer#readme"
+}
