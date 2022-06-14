@@ -1,0 +1,5 @@
+{
+  "easy": ["The Godfather", "Pulp Fiction", "The Dark Knight"],
+  "medium": ["Apocalypse Now", "High and Low", "Saving Private Ryan"],
+  "hard": ["Star Wars", "Taxi Driver", "The Lion King"]
+}
